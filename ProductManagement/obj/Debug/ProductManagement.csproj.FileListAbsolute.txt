@@ -1,0 +1,11 @@
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csprojResolveAssemblyReference.cache
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Login.resources
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\obj\Debug\ProductManagement.StockMain.resources
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.Cache
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\emirm\Desktop\C#\Projects\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Products.resources
